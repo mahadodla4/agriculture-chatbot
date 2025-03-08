@@ -1,3 +1,11 @@
+To run the project:
+1) git clone https://github.com/mahadodla4/agriculture-chatbot.git
+2) cd agriculture-chatbot
+3) pip install flask
+4) pip install googletrans==4.0.0-rc1
+5) python backend_flask_app.py
+
+
 **Modules used:**
 numpy,pandas,torch,nltk,flask
 Google-trans{for voice translation(input voice language - telugu, translated language - english)},
