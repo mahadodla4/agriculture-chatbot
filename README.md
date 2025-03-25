@@ -3,7 +3,9 @@ To run the project:
 2) cd agriculture-chatbot
 3) pip install flask
 4) pip install googletrans==4.0.0-rc1
-5) python backend_flask_app.py
+5) pip install tf-keras
+6) pip install transformers sentence-transformers
+7) python backend_flask_app_trans.py
 
 
 **Modules used:**
