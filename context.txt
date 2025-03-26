@@ -147,3 +147,363 @@ Water Availability: In drought-prone areas, water-efficient crops like prickly p
 Market-Driven Choices: Farmers targeting high-demand global markets often cultivate cash crops like coffee in Colombia, tea in Kenya, avocados in Mexico, or saffron in Kashmir. For niche markets, organic or specialty crops like goji berries, chia seeds, or heirloom vegetables can yield higher profits.
 Rotation & Intercropping: Strategic crop combinations, such as corn and beans, enhance sustainability—beans fix nitrogen for corn, while corn stalks provide structural support. Similarly, intercropping cotton with pigeon pea reduces pest pressure and improves soil health.
 Disease-Resistant Varieties: To combat common plant diseases, farmers can opt for resilient varieties like "Defiant" hybrid tomatoes (resistant to blight) or "FHIA-01" bananas (resistant to Panama disease), ensuring more reliable harvests.
+Carrots grow best in loose, sandy soil with good drainage.
+They require a cool climate and thrive in temperatures between 15-20°C.
+The crop takes about 70–80 days to mature, depending on the variety.
+Proper irrigation is necessary to prevent cracking and ensure uniform growth.
+Carrots are rich in beta-carotene, which gives them their orange color.
+Beetroots grow well in loamy soil with good organic content.
+The ideal temperature for growth is between 18-24°C.
+The crop matures in about 55–70 days after planting.
+Regular watering ensures tender roots and prevents woodiness.
+Beetroot leaves are also edible and used as greens in salads.
+Sweet potatoes prefer well-drained sandy or loamy soil.
+They require a warm climate with temperatures around 25-30°C.
+The crop matures in 90–120 days after planting.
+It is propagated through vine cuttings rather than seeds.
+Rich in starch, sweet potatoes are an excellent food source.
+Potatoes grow well in cool climates with temperatures between 15-20°C.
+They prefer loose, well-drained, and slightly acidic soil.
+The crop matures in about 90–120 days, depending on the variety.
+Potatoes are propagated using seed tubers rather than seeds.
+They are one of the most widely grown staple crops in the world.
+Onions grow best in well-drained sandy loam soil.
+They require moderate temperatures (13-24°C) during growth.
+The crop matures in about 100–120 days from planting.
+Proper irrigation helps in bulb formation and prevents splitting.
+Onions are stored in dry, well-ventilated conditions to prevent rotting.
+Garlic prefers well-drained, sandy or loamy soil with organic matter.
+It requires cool weather during the vegetative phase and warm weather for bulb formation.
+The crop matures in 150–180 days after planting.
+Garlic is planted using individual cloves, not seeds.
+Proper curing after harvest ensures long storage life.
+Tomatoes grow well in well-drained loamy soil rich in organic matter.
+They require a warm climate with temperatures between 20-30°C.
+The crop matures in about 60–90 days, depending on the variety.
+Staking or caging supports the plant and prevents fruit from touching the soil.
+Tomatoes are susceptible to pests like aphids, whiteflies, and fruit borers.
+Cucumbers thrive in warm temperatures between 20-30°C.
+They require well-drained, sandy loam soil with good organic matter.
+The crop matures in about 50–70 days after sowing.
+Regular irrigation is needed to prevent bitterness in fruits.
+Cucumbers are often grown on trellises to support vine growth and improve yield.
+Okra grows best in warm climates with temperatures between 25-30°C.
+It prefers well-drained, sandy loam soil for proper root development.
+The crop matures in 50–60 days after planting.
+Regular picking of pods encourages continuous production.
+Okra is rich in fiber and commonly used in tropical cuisines.
+Bottle gourd grows well in warm, humid climates with temperatures around 25-30°C.
+It requires sandy loam soil with good organic matter for better yield.
+The crop matures in about 60–70 days from sowing.
+Bottle gourd vines grow best when supported on a trellis.
+The vegetable has high water content and is widely used in Indian cuisine.
+Bitter gourd grows well in warm, tropical climates with temperatures around 25-30°C.
+It prefers well-drained, sandy loam soil rich in organic matter.
+The crop matures in 55–70 days after sowing.
+The plant requires staking or trellising for better growth.
+Bitter gourd is known for its medicinal properties, particularly for diabetes control.
+Brinjal requires warm temperatures between 22-30°C for optimal growth.
+It prefers well-drained sandy loam soil rich in organic matter.
+The crop matures in about 90–120 days, depending on the variety.
+Regular pest control is required to protect against fruit borers and aphids
+Brinjal is a versatile vegetable used in many global cuisines.
+Cabbage thrives in cool temperatures between 15-20°C.
+It requires well-drained loamy soil with high organic content.
+The crop matures in about 80–100 days from planting.
+Cabbage is susceptible to pests like aphids and caterpillars
+It is a rich source of vitamins C and K, making it a nutritious vegetable.
+Cauliflower grows best in cool climates with temperatures around 15-20°C.
+It prefers well-drained, fertile soil rich in organic matter.
+The crop matures in about 90–120 days, depending on the variety.
+Blanching (covering the curd) helps maintain the white color of cauliflower heads
+It is widely used in various cuisines and is a great low-calorie food.
+Lemon trees require warm, tropical to subtropical climates.
+They grow well in sandy loam soil with proper drainage.
+Lemon trees start producing fruit within 3–5 years after planting.
+Regular pruning improves fruit yield and tree health.
+Lemons are rich in vitamin C and have many culinary and medicinal uses.
+Apples are grown in temperate regions and require well-drained soil with a pH of 6.0-7.0.
+Bananas thrive in tropical climates with high humidity and require plenty of water.
+Oranges are primarily cultivated in subtropical regions with well-drained sandy loam soils.
+Mangoes need a warm, dry climate and are drought-resistant once mature.
+Grapes are grown in vineyards, often requiring trellises for proper growth and yield.
+Lemons prefer sunny, frost-free environments with good drainage and loamy soil.
+Limes are well-suited for coastal regions and need protection from cold temperatures.
+Grapefruits are cultivated in regions with mild winters and hot summers.
+Tangerines are popular in Mediterranean climates with minimal frost exposure.
+Clementines require consistent watering and well-drained soil for optimal growth.
+Blueberries prefer acidic soil (pH 4.5-5.5) and require ample water during fruit development.
+Raspberries thrive in cooler climates with well-drained, loamy soil.
+Blackberries are drought-tolerant but benefit from regular irrigation during fruiting.
+Cranberries are often grown in bogs with sandy, acidic soil and ample water supply.
+Gooseberries are suited to cooler regions and require good air circulation to prevent diseases.
+Cherries are typically grown in regions with cold winters, requiring winter chill hours for fruiting.
+Peaches grow best in well-drained, sandy soils and require pruning for high-quality yields.
+Plums are adaptable to various soil types but need full sun and regular watering.
+Apricots prefer dry climates with low humidity and well-drained soil.
+Nectarines are susceptible to frost damage, so protection during spring is essential.
+Coconuts are grown in coastal areas with sandy soils and require consistent rainfall.
+Kiwis need a temperate climate with a moderate chill period for fruit set.
+Guavas are resilient and grow well in tropical and subtropical regions with minimal care.
+Dragon fruits are cacti that thrive in arid conditions with well-drained soil.
+Passion fruits require trellises for support and grow well in warm, humid climates.
+Would you like additional details on agricultural practices for any specific fruit?
+Disease Management: Rotating crops reduces the buildup of soil-borne pathogens and pests, especially for fruits prone to fungal diseases like strawberries and melonsSoil Fertility Improvement: Leguminous plants (e.g., peas, beans) in the rotation fix nitrogen in the soil, benefiting fruit crops in the subsequent season.
+Pest Control: Breaking the life cycle of pests that target specific fruit crops minimizes infestations.
+Nutrient Management: Different fruits have varying nutrient requirements. Rotating heavy feeders (like melons) with light feeders (like leafy greens) can balance soil nutrients.
+Weed Management: Crop rotation disrupts the growth of specific weed species by changing plant cover and canopy structure.
+asking about control measure of caseworm on cabbage: suggested him to spray tricel @1ml/lit of water
+ control measure of sigatoka disease of banana: advised him to spray bordeaux mix
+trunk borer of lemon: advised to spray novacron or dimacron @ 1 ml/ liter water.
+ bacterial blight of betelvine: suggested him to spray steptomycine @1gm/10lit of water
+ fertilizer doses of coriander: suggested him to urea- 5 kg, ssp- 25 kg, mop- 4 kg
+asking about treatment of diarrhoea in cow.: suggested to administer nt-zole bolus twice daily for 5 days.
+ leaf eating caterpillr in lemon: suggested him to apply malathion 50 ec @ 2ml/l of water
+ control of leaf folder in rice: suggested him to spray classic 20 ec @ 2ml/l of water
+psuedostem boreer in banana.: advised to spray malathion 50 ec @ 2 ml/ liter water.
+ control measure for sheath rot of rice: recommended to spray contaf 1 ml/lit water
+asking about fish mortality for over fertilization: recommended that application of salt @10kg/bigha and stop fertilization  for 1 month and liming necessary every month @10 kg.
+ micro nutrient management in rice.: advise to apply zinc sulphate @ 200 g/bigha and also tracel @ 2 g/lt of water.
+ nutrient management in bottle gourd.: advise to apply urea:ssp:mop @ 125:75:75 g/plant and also spray tracel @ 2 g/lt of water.
+ fertilizer doses in tomato: suggested him 22kg urea,50 kg ssp,17 kg mop/bigha
+half of urea and full doses of ssp and mop applied as basal and another half of urea applied after 30 days
+ nutrition of rice: recommended to apply paddy special @ 2 ml/lit of water and zinc sulphate @ 2 kg/bigha
+fungal wilt of tomato.: advised to spray bavistin @ 2 gram/ liter water.
+ nutrition of cabbage: recommended to spray mahafal @ 2 ml/lit of water
+ fertilizer dose for rice after 30 days of transplanting: recommended to top dress urea 4 kg/bigha(4 kg at penicle initiation stage),mop 5 kg /bigha
+ sowing time of maize: advised him to sow seeds from mid jan-mid april
+ seed rate and fertlizer dose/bigha for black gram: recommended to sow seeds 3 kg/bigha.urea 4.5 kg/bigha,ssp 30 kg/bigha,mop 3 kg/bigha
+ashking about the control measure of stem borer on paddy: suggested him to spray tricel @2ml/lit of water
+ control of fungal infection in black pepper: suggested him to apply bavistin 1 gm/10l of water
+ fertilizer dose at penicle initiation stage in paddy: recommended to top dress urea 4 kg/bigha,mop 3 kg/bigha
+ control of fungal infection in bottle gourd: suggested him to spray cantaf @ 1ml/l of water
+ doses of naa: advised him to spray naa @ 1 ml/10 lit of water
+ nutrition of citrus: suggested him to spray citrus special @1ml/lit of water
+ variety of sesame.: advise to grow varieties like gauri, vinayak, punja tall-1 etc.
+ management of plant hopper.: advise to spray phosphomidon @ 2 g/lt of water.
+ management of leaf spot.: advise to spray mancozeb @ 2g/lt of water.
+ management of rice hispa.: advise to spray phosphomidon @ 2ml/lt of water.
+ micro-nutrient management.: advise to spray tracel @ 2g/lt of water.
+ way to incease fruit size of banana: recommended to apply urea 150 gram/plant,ssp 200 gram/plant,mop 275 gram/plant.also apply banana special multilex 200 gram /plant in ring method
+ fertizer dose in black gram: suggested him to apply 4.5 kg urea/bigha,30 kg ssp/bigha,3kg mop/bigha(seed rate -3kg/bigha)
+ fertlizer dose for cabbage: recommended to apply urea 18 kg/bigha as basal dose ( 18 after 30 days),ssp 50 kg/bigha as basal dose , mop 13 kg/bigha as basal dose
+  lameness of a pig: conciplex 3 ml i/ mly
+ control of fungal infection in cabbage: suggested him to apply bavistin @ 2gm/l of water
+asking about control measure of e.u.s disease in fish pond: recommended that application of cifax or sukrena w.s @250 to 350 ml/bigha for broadcasting
+ nutrient deficiency on paddy: suggested him to spray zinc sulphate 2kg per bigha
+ soil treatment: advised to treat the soil with formaldehyde @ 40ml/lit
+ micronutrient in papaya: suggested him to apply tracel 2 @ 2gm/l of water
+ controlling bug in paddy field: recommended to spray decis @ 1 ml/lit of water
+ control measure for fruit fly in bottle gourd: recommended to spray malathion 50 ec 2 ml/lit water mix with  10 gram molasses (gur) 3 sprays in 5 days gape
+ seed rate of arahar: recommended to seed rate  4 kg/bigha
+ control measure leaf rot of betel vine: recommended to spray blitox 50 @ 2 ml/lit of water
+ controlling leaf rot of betel vine: recommended to spray blitox 50 @ 2 gm/lit of water
+ management of root rot.: advise to spray captaf @ 2g/lt of water.
+ control measure of wilt in brinjal: suggested him to spray steptomycine 1gm/10 lit of water
+asking about control measure of swarming caterpillar in paddy field: recommended that application of desis @2ml/lit or quinol phos @3ml/lit for broadcasting
+ fertlizer dose in paddy where fertlizers basal dose were not applied in paddy: recommended to top dress urea 4 kg/bigha,mop 5 kg /bigha.spray paddy special 2 ml/lit water
+ control measure of armyworm on paddy: suggested him to spray ustaad @3ml/lit of water
+ variety of tomato and brinjal: suggested him tomato-pusa early,punjab kesari,sioux
+brinjal-pusa purple long,pusa purple round
+ controlling catterpiller: recommended to spray ustaad @ 3 ml/lit of water
+ nutrient management in rice: suggested him to apply paddy special @ 2gm/l of water(4kg urea at top dressing)
+ management of leaf spot.: advise to spray mancozeb @ 2g/lt of water.
+ controlling the caterpillar in paddy field: recommended to spray ustaad @ 3 ml/lit of water
+ management of army worm.: advise to spray ustad @ 3 ml/lt of water.
+ pest management in rice: recommended to spray chloropyriphos @ 3 ml per lit of water
+asking about control measure of swarming caterpillar: recommended that application of ustaad @5ml/lit for spraying
+ micronutrient in coconut: suggested him to apply "multiplex coconut special" @ 200gm/plant at the distance of 2m by ring method
+ control measure of borer of black gram: recommended to spray kinadon plus 40 sl @ 2 ml/lit of water
+ fertilizer dose for radish: recommended to apply urea 15 kg/bigha,ssp 40 kg/bigha,mop 22 kg /bigha
+ control measure of caseworm in paddy: recommended to spray ustaad @ 2 ml/lit of water
+ control measure for stem borer: recommended to spray ustaad 1.5 ml/lit water
+asking about radish variety recommended for assam.: recommended varieties are cherry belle and black spanish round and crimson giant
+ nutrient management in bottle gourd.: advise to apply urea:ssp:mop @ 75:50:50 g/plant and spray tracel @ 2g/lt of water.
+asking about fish mortality in pond: recommended that application of lime@10kg/bigha and salt application @10kg/bigha.throughing cutting piece of banana tree.
+ control measure of cutworm on paddy: suggested him to spray decis @3ml/lit of water
+control of swarming caterpiller in paddy: spray decis 2.8 ec @ 3 ml per liter of water
+ nutrient management in radish.: advise to apply urea:ssp:mop @ 8:7:5 kg/bigha.
+ controlling worm in paddy field: recommended to spray ustaad @ 2 ml/lit of water
+asking about swarming caterpillar management: recommended to spray ustad @ 21 ml per lit of water
+ coconut seed problem: recommended that application of multiplexcoconut special @200gm per tree
+ control measure of cutworm on paddy: suggested him to spray ustaad @3ml/lit of water
+asked about carp disease: advised him to apply lime and toximer
+ control measure of leaf folder: suggested him to spray ustaad @2ml/lit of water
+ leaf spot of brinjal: recommended that application of bevistin @2mg/lit
+asking about swarming caterpillar management in rice field: recommended to spray ustad @ 2 ml per lit of water
+ control measure for swarming caterpillar in paddy: recommended to spray decis 2.8 ec, 3 ml/lit water or ustaad 3 ml/lit water
+asking about yellowing of leaves of rice crop in main field: recommended to spray thiamethoxam 25 wdg 100g/ha
+ preventive measure to prevent the entry of swarming caterpillar from one plot to another in rice: recommended to apply malathion 5 % dust along the boundary of the standing rice crop
+ control measure of worm: recommended to spray ustaad @ 2 ml/lit of water
+ variety recommended for assam condition: recommended to use variety- 1. arka chandan 2. arka surjamukhi
+asking about management of rice hispa.: recommended to spray either ustad @ 3 ml per lit of water or chloropyriphos 20 ec @ 3 ml per lit of water.
+ control of fungal infection in brinjal: suggested him to spray blitox 50 @ 1gm/3l of water
+ control of black bean aphid in black gram: suggested him to spray rogor @ 2ml/l of water
+asking about control measure of swarming caterpillar: recommended that application of ustaad @5ml/lit
+ remedy for flower drop problem in brinjal: recommended to spray mahafal 2 ml/lit water
+ management of army worm: advise to spray ustad @ 3ml/lt of water.
+ control measure for hispa in rice: recommended to spray tricel 20 ec,2 ml/lit water
+ control measure of leaf hopper: recommended to spray rogor @ 2ml/lit of water
+asking about tomato query: recommended that application of saaf @2gm/lit
+ nutrient management of bottle gourd: recommended to spray tracel 2 @ 2 gm/lit of water
+ application of crop growth booster in mustard: recommended to spray tracel 2, 2 gram/lit water
+ nutrient management.: advise to spray urea:ssp:mop @ 150:110:75 g/plant and also spray tracel @ 2g/lt of water.
+ control of fruit and shoot borer in brinjal: suggested him to spray malathion 50 ec @ 2ml/ l of water
+control measure of turbidity: apply lime @ 6kg/bigha of water spread area
+asking about yellowing of leaves and after that seedlings were died.: recommended to spray thiamethoxam 25 wdg 100g/ha or
+imidacloprid 17.8 sl 100ml/ha
+ control of rice hispa: suggested him to spray tricel 20 ec @ 2ml/l of water
+asking about whitening of leaves and mite problems: recommended to spray rogor @ 2 ml per lit of water for insect and for fungal mencozeb @ 2 g per lit of water
+ control measure for root grab: recomemnded to apply phorate 10 g,20 gram/plant.
+ lameness of leg: melonex plus  -2 bolus twice orally daily
+ management of insects.: advise to spray lamdex @ 2ml/lt of water.
+asking about abnormal behavior of fish in pond: recommended that application of lime @10kg/bigha  and throughing piece of banana tree
+asking about yellowing of leaves: recommended to spray paddy special @ 2 ml per lit of water
+ control measure of downy mildew in bottle gourd: recommended to spray saaf @ 2 g per lit of water for two times after 7 days of interval
+ control measure for bihar hairy caterpillar: recommended to spray tricel 20 ec,2 ml/lit water
+asking about spacing of pineapple.: recommended to plant the suckers at a distance plant x plant (30 cm x 30 cm), row x row ( 60 cm x 60 cm) and trenches x trenches ( 90 cm x 90 cm) or 60 cm x 30 cm x 90 cm
+ improved variety of mango: recomended to name of the variety- amrapalli, mallica
+asking about control measure of caterpillar in yard long be: recommended to spray malathion 5 % dust @ 2 g per lit of water
+asking about control measure of citrus canker.: recommended to spray streptocyclin 100 ppm + coc 1.5 kg/ha at monthly intervals.
+asking about control measure of anthracnose of betelvine.: recommended to spray saaf @ 2 g per lit of water
+ micro-nutrient management.: advise to spray coconut special @ 3g/lt of water.
+asking about treatment of diarrhoea in goat.: suggested to administer neblon powder @ 20 gm twice daily for 5 days.
+asking about control measure of yellow mosaic disease in gram: recommended to spray rogor (dimethoate) @ 2 ml per lit of water
+asking about control measure of tomato leaf curl: recommended to spray rogor @ 2 ml per lit of water
+ decrease milk yield of a cow: increase calcium supplement in diet
+ soil treatment for cabbage: suggested him to apply 4% formaline solution
+ control measure of fruit scaring beetle: suggested him to spray malathion @2ml/lit of water
+ control of blight in banana: suggested him to spray radomil gold @ 2gm/l of water
+ variety of tomato: suggested him sinjenta,mahako and east west company seeds
+ control measure of wilting of tomato: suggested him spray streptomycine @1g/10 lit of water
+ control measure of stem borer on paddy: suggested him to spray tricel @2ml/lit of water
+asking about control measure of bacterial wilt: recommended to spray coperoxychloride @ 2 g per lit of water 
+
++ streptocyclin @ 1 ml per 10 lit of water
+asking about control measure bacterial wilt: recommended to spray saaf @ 2 g per lit of water + streptomycine 1 ml per 10 lit of water
+asking about radish query: recommended that appication of malathione 50 ec@2ml/lit
+asking about control measure of  cercospora leaf spot.: recommended to spray mencozeb @ 2 g per lit of water
+ control measure for canker in lemon: recommended to spray streptomycine 1 gram/ 10 lit water
+ control of powdery mildew in papaya: suggested him to spray saaf @ 2gm/l of water
+ variety of knol-khol.: advise to grow varieties like white vienna and purple vienna.
+ control of curling of leaves in brinjal: suggested him to spray rogor @ 2ml/l of water
+asking about kcc loan: advised him to visit dist agril office
+ nutrient deficiency in mango: suggested him to apply planofix @ 1gm/l of water
+ dose of potash in paddy field: recommended to apply potash- 5 kg/bigha, zinc sulphate- 2 kg/bigha
+ treatment of liver and also asked about vitamin injection and mineral mixture: recommended to feed livomarc 30 ml two times and multistar vitamin 3 teas spoon full daily,agrimin forte  50 gram daily along with feeds
+ management of leaf miner.: advise to spray monocrotophos @ 1ml/lt of water.
+asking about weed control in open field for ploughing for jute cultivation: recommended to spray butachlor 50 ec @ 2-3 ml per lit of water
+ control measure of fungal disease of bottle gourd: recommended to spray saaf @ 2 ml/lit of water
+ control measure of stem borer on paddy: suggested him to spray tricel @2ml/lit of water
+asking about control measure of  rice tungro virus: recommended to spray imidacloprid 17.8 sl @ 100 ml/ 7.5 bigha
+asking about control measure of rice tungro: recommended to apply carbofuran 3 g @ 3 kg/bigha
+ varieties and season of sessame: suggested him in the month of last may to sep 1st week 
+variety-madhabi,gauri,vinayak
+asking about control measure of sigatoka lea spot of banana: recommended to spray coper oxychloride @ 2 g per lit of water
+ lameness of some  piglet: vit& mineral and iron supplement to the piglet extra care to runt which is develope in extreme uterine horn during pregnency
+ management of leaf curl and mosaic.: advise to spray dimethoate or malathion @ 2g/lt of water.
+ control of bean aphid in black gram: suggested him to apply rogor 2 2ml/l of water
+asking about rotting of roots: recommended to apply furadon 3 g @ 50 g per plant + bavistin @ 2 g per lit of water
+ ulceration in mouth: wash the mouth with antiseptic solution give antibiotic and steroid
+ problem of delay in penicle initiation stage where fertilizers were not applied: recommended to top dress urea 5 kg/bigha,mop 5 kg/bigha.also spray paddy special crop booster 2 ml/lit water.
+asking about nutrient deficiency of broiler: recommended to administer tetracycline powder 1gram per 10 lit water and ambiplex 15 ml with water and lasix 50 gram with 1 lit water
+asking about mosaic problem in tomato: suggested to spray rogor @ 2ml per litre of water
+asking about control measure of panama disease on banana: suggested him to spray blitox @3gm/lit of water
+ management of seedlings rot.: advise to spray captaf @ 3g/lt of water.
+ control measure of mosaic on pumkin: suggested him to spray rogor @2ml/lit of water
+ control measure for blight in tomato: recommended to spray indofill m 45 @ 2 gm/lit of water
+ management of wilting.: advise to spray carbendazim or bavistin @ 2g/lt of water.
+ management of wilting.: advise to spray carbendazim @ 2g/lt of water.
+ control measure of mealy bug on chilli: recommended to spray rogor @ 2 ml/lit of water
+ contrl measure of termite in coconut: recommended to spray tricel 20 ec, 3 ml/lit water
+ management of shoot and fruit borer.: advise to spray malathion @ 2g/lt of water.
+ control measure of wilt on brinjal: suggested him to spray bevistin @1gm/lit of water
+ management of blight.: advise to spray blitox or agrimycin @ 1g/lt of water.
+ management of wilting disease.: advise to spray bavistin @ 2g/lt of water.
+ management of wilting.: advise to spray streptomycin 2g/lt of water.
+ control measure of wilt on tomato: suggested him to spray streptomycine @1gm/lit of water
+ management of wilting.: advise to spray bavistin @ 2g/lt of water.
+ management of leaf folder.: advise to spray monocrotophos @ 1ml/lt of water.
+ control measure of mosaic on black gram: suggested him to spray imidacloprid @1ml/lit of water
+ control measure of psuedostem borer on banana: suggested him to spray malathion @2ml/lit of water and apply furadon on root zone
+ control measure of wilt on tomato: suggested him to spray saaf @2gm/lit of water
+asking about control of powdery mildew in pumpkin: suggested him to spray saaf @ 2gm/l of water
+ for improving milk production and make the animal pregnant: calshakti platina 20-25 ml daily
+ nutrient management in garlic.: advise to apply cowdung @ 4q/bigha and urea:ssp:mop @ 15:25:10 kg/bigha.
+ control measure of root rot on ginger: suggested him to spray contaf @1ml/lit of water
+ control measure for fungal wilting in marigold: recommended to spray saaf 2 gram/lit water
+ nutrient deficiency on paddy: suggested him to spray paddy special @2.5 gm/lit of water
+ nutrient management in pumpkin: suggested him to spray tracel 2 @ 2gm/l of water
+ fungal infection in leafy vegetables: suggested him to spray saaf @ 2gm/l of water(for seed treatment- treat the seeds with bavistin @ 2gm/kg of seeds)
+ control of foot rot of betelvine: suggest him to apply blitox @ 1gm/10 litre of water.
+ fertilizer dose of coconut: recommended to apply urea- 750 gm/plant, super-1250 gm/plant, potash-900 gm/plant and apply coconut special @ 200 gm/plant
+asking about control measure of wilting of brinjal: recommended to spray streptomycine @ 1 ml per 10 lit of watr
+asking about control measure of purple blotch in onion: recommended to spray indofil m-45 @ 2 g per lit of water
+asking about control measure of fruit borer on brinjal: suggested him to spray ustaad @1.5ml/lit of water
+ control measure of shoot borer in brinjal: recommended to spray decis @ 2 ml/lit of water
+ nutrient management of brinjal: suggested him to spray plenofix @1ml/10 lit of water
+ application of crop booster in potato: recommended to spray mahafal 2 ml/lit water
+asking about fertilizer management in coconut: recommended to apply urea 750 g ssp -650 and mop 700 g per plant
+ control measure for fungal wilt in beans: recommended to spray contaf 1 ml/lit water
+asking about recommended variety of potao: recommended to used variety kufri joyti and kufri megha
+asking about rotting of seedlings in nursery: recommended to spray bavistin @ 2 g per lit of water
+asking about control measure of powdery mildew: recommended to spray bavistin @ 2 g per lit of water
+ control measure of psuedostem borer: suggested him to spray malathion @2ml/lit of water
+ coconut fertilizer dose: advised to apply urea-ssp-mop @ 750-1500-750 gm/plant borax 25gm/plant and multiplex coconut special @ 200gm/plant . it should be applyed by digging a ring of 1m depth 1.5m away from the tree trunk
+ control measure for bacteril wilt in brinjal: recommended to spray agrimycine 1 gram/ 10 lit water
+ control measure of bacterila wilt on brinjal: suggested him to spray streptomycine @1g/10 lit of water
+ wilt disease on brinjal: suggested him to spray streptomycin @1g/10 lit of water
+ fertilizer dose of mustard: suggested him to urea-18 kg, ssp-27kg,mop-6 kg per bigha
+ management of gundhi bug.: advise to spray malathion.
+asking about control measure of flies in bottle gourd: recommended to spray malathion 50 ec @ 2 ml per lit of water
+asking about banana query: recommended that application of multiplex banana special @2ml/lit for spray
+ control measure of tomato: suggested him to spray streptomycin @1gm/10 lit of water
+ veterinary queries: transfer to veterinary expert
+ a duck with symptom of tremour: tc powder 10 gm / lits of water
+asking about control measure wilt: recommended to spray agrimycine @ 1 ml per lity of water + saaf @ 2 ml per lit of water
+stem rot: advised to spray bordeux mixture as directed.
+ management of root rot and leaf folder.: advise to spray captaf @ 2g/lt of water and monocrotophos @ 1ml/lt of water.
+ management of scab.: advise to spray mancozeb @ 2g/lt of water.
+ fertilizer doses in potato: suggested him to apply 19 kg urea /bigha,45 kg ssp/bigha ,12 kg mop/bigha
+ control of fruit and shoot borer in brinjal: suggested him to spray malathion 50 ec @ 2ml/l of water
+ control measure of stem rot on paddy: suggested him to spray tricel @2ml/lit of water
+asking for control of rice blast: recommended him to apply saaf @ 1.5 gram per litre of water
+ nutrient management.: advise to apply urea:ssp:mop @ 24:50:11 kg/bigha.
+ management of wilting.: advise to spray streptomycin @ 2g/lt of water.
+ controlling fruit dropping in papaya: recommended to apply borax- 50 gm/plant
+ piglet debility ( piglet anaemia): imferon injection 1 ml i/ mly or iron supplement orally
+ controlling the earthworm in banana: recommended to apply furadon @ 40 gm/plant
+ control of fungal rot in chillis: suggested him  to spray captaf @ 1ml/l of water
+ control of leaf spot in bottlegourd: suggest him to apply bavistin @ 2gm/litre of water.
+ control measure bacterial wilt on brinjal: suggested him to spray streptomycin @1gm/10 lit of water
+asking about fertilizer does inurea@18kg/bigha,ssp @33kg/bigha,mop mustard oil seed culture: recommended that urea@18kg/bigha,ssp @33kg/bigha,mop @9kg/bigha
+asking about control measure of papaya masaic: recommended to spray rogor @ 2 ml per lit of water
+asking about control measure shoot and fruit borer: recommended to spray malathion 50 ec @ 2 ml per lit of weater
+ medicine for goat: advice-ostovet-5ml twice daily x15 days. vimeral-5ml twice daily x15 days
+ fertilizer dose of bottle gourd: suggested him to apply urea-14 kg, ssp-32 kg, mop-10 kg per bigha
+ management of aphids.: advise to spray malathion powder.
+ management of nutrient.: advise to apply urea:ssp:mop @ 15:25:12 kg/bigha.
+asking about boron application in coconut: recommended to apply boron @ 100 g per plant
+ recommended fertilizer dose for mustard: suggested about the recommended fertilizer dose like-urea@18 kilogram/bigha, ssp@27 kilogram/bigha, mop@3 kilogram/bigha
+ fertilizer dose of pea: suggested to urea-6 kg, ssp-40 kg mop-2 kg
+ control measure on late blight of brinjal: suggested him to spray indofil m-45 @5gm/21 lit of water
+ management of stem rot.: advise to spray bavistin @ 2g/lt of water.
+ fungal rot: advised to apply contaf @ 2gm/lit
+asking about tomato query: recommended that application of planofix @1ml/5lit for spray
+ control measure of fruit necrosis: suggested him to spray borax @100 gm/plant
+ fertilizer dose of pea: suggested him to urea4kg, ssp-40 kg,mop-2 kg
+ variety for mustard: recommended to grow black gold hybrid variety mustard
+asking about control measure yellow mosaic: recommended to spray rogor @ 2 ml per lit of water
+asking about anthracnose problem in chillies: suggested to spray captaf @ 2gm per litre of water
+ argulas in fish pond: recommended that application of potash @4oo gm
+ cultural practices in potato: suggested him to apply 19 kg urea ,45kg ssp ,12 kg mop/bigha
+(malathion powder @ 2kg /bigha at the time of field preparation)
+ cultural practices in potato: suggested him to apply 19 kg urea ,45 kg ssp,12 kg mop/bigha 
+(malathion powder @ 2kg /bigha at the time of field preparation)
+ control measure for the damage caused by fruit fly in pumpkin: recommended to spray malathion 50 ec,2 ml/lit water mix with molasses(gur)10 gram/lit water.
+asking about fertilizer dose of mustard: suggested fertilizer dose of mustard as urea-12kg,ssp-30kg,mop-4kg,borax-1.5kg per bigha
+ fungal wilt in brinjal: recommended that application of contaff @2gm/lit of water
+ management of root rot.: advise to spray contaf @ 2g/lt of water.
+ fertilizers dose in potato: advice him to apply urea @ 19k,ssp 90kg,mop 24kg,organic fertilizers 2qntl/bighas of cultivated land
+ management of root rot.: advise to spray captaf @ 2g/lt of water.
+ cultural practice for papaya: recommended to raise seedling in seed bed.transplant in the main field at teh age of seedling 1 month.dig pit of size 45 cm,45cm,45 cm at a distance 1.8 mt.apply fertilizer after 2 months of planting
