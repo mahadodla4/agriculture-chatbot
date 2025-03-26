@@ -9,10 +9,49 @@ context=r'C:\Users\sirij\agriculture-chatbot\context.txt'
 qa_pipeline = pipeline("question-answering", model="deepset/roberta-base-squad2") 
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
-def generate_response(text, context):
+
+def load_model_and_context(file_path):
     try:
-        answer = answer_question_with_patterns(text, context)
-        return answer['answer']
+        with open(file_path, 'r', encoding='utf-8') as f:
+            context = f.read()
+        context_embeddings = generate_embeddings(context)
+        return context, model, context_embeddings
+    except FileNotFoundError:
+        return "", None, None
+    except Exception as e:
+        print(f"Error reading context file: {e}")
+        return "", None, None
+
+
+# Generate embeddings for the context
+def generate_embeddings(text):
+    # Generate sentence embeddings for the context
+    return model.encode([text])
+
+# Find the most similar context and answer the question
+def generate_response(text, context, model, context_embeddings):
+    try:
+        if text in ["hi","Hi","HI","Hello","hello","HELLO"]:
+            return "Hello! How can I help you today?"
+        elif text in ["bye","Bye","BYE","Goodbye","goodbye","GOODBYE"]:
+            return "Goodbye! Have a great day!"
+        elif text in ["thanks","Thanks","THANKS","thank you","Thank you","THANK YOU"]:
+            return "You're welcome!"
+        elif text in ["how are you","How are you","HOW ARE YOU"]:
+            return "I'm doing great! How can I help you today?"
+        elif text in ["who are you","Who are you","WHO ARE YOU"]:
+            return "I'm an AI agri chatbot! How can I help you today?"
+        elif text in ["who created you","who developed you","Who created you","Who developed you","WHO CREATED YOU","WHO DEVELOPED YOU"]: 
+            return "I was developed by Mahalakshmi Dodla"
+        else:
+            question_embedding = model.encode([text])
+            similarity = cosine_similarity(question_embedding, context_embeddings)
+            
+            # Get the most relevant context piece based on cosine similarity
+            most_similar_context = context
+            
+            answer = answer_question(text, most_similar_context)
+            return answer['answer']
     except Exception as e:
         return f"Sorry, I encountered an error: {str(e)}"
 

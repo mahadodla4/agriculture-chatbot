@@ -45,6 +45,7 @@ class Chatbox {
 
         let msg1 = { name: "User", message: text1 }
         this.messages.push(msg1);
+        this.showLoadingSpinner(chatbox);
 
         fetch('http://127.0.0.1:5000/predict', {
             method: 'POST',
@@ -58,14 +59,39 @@ class Chatbox {
           .then(r => {
             let msg2 = { name: "Agribot", message: r.answer };
             this.messages.push(msg2);
+            this.hideLoadingSpinner(chatbox);
             this.updateChatText(chatbox)
             textField.value = ''
 
         }).catch((error) => {
             console.error('Error:', error);
+            this.hideLoadingSpinner(chatbox);
             this.updateChatText(chatbox)
             textField.value = ''
           });
+    }
+
+    showLoadingSpinner(chatbox) {
+        // Create or get the status element
+        let statusElement = chatbox.querySelector('.chatbox-status');
+        
+        if (!statusElement) {
+            statusElement = document.createElement('div');
+            statusElement.classList.add('chatbox-status');
+            chatbox.appendChild(statusElement);
+        }
+        
+        // Show "Generating Answer..." message
+        statusElement.textContent = 'Generating Answer...';
+        statusElement.style.display = 'block';
+    }
+
+
+    hideLoadingSpinner(chatbox) {
+        const statusElement = chatbox.querySelector('.chatbox-status');
+        if (statusElement) {
+            statusElement.style.display = 'none';
+        }
     }
 
     startRecording(chatbox) {
@@ -125,6 +151,7 @@ class Chatbox {
 
         const chatmessage = chatbox.querySelector('.messages');
         chatmessage.innerHTML = html;
+        chatmessage.scrollTop = chatmessage.scrollHeight;
     }
 }
 
