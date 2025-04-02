@@ -31,17 +31,17 @@ def generate_embeddings(text):
 # Find the most similar context and answer the question
 def generate_response(text, context, model, context_embeddings):
     try:
-        if text in ["hi","Hi","HI","Hello","hello","HELLO"]:
+        if text.lower() in ["hi","hello"]:
             return "Hello! How can I help you today?"
-        elif text in ["bye","Bye","BYE","Goodbye","goodbye","GOODBYE"]:
+        elif text.lower() in ["bye"]:
             return "Goodbye! Have a great day!"
-        elif text in ["thanks","Thanks","THANKS","thank you","Thank you","THANK YOU"]:
+        elif text.lower() in ["thanks","thank you","thankyou"]:
             return "You're welcome!"
-        elif text in ["how are you","How are you","HOW ARE YOU"]:
+        elif text.lower() in ["how are you"]:
             return "I'm doing great! How can I help you today?"
-        elif text in ["who are you","Who are you","WHO ARE YOU"]:
+        elif text.lower() in ["who are you","what is your name","what is your name?"]:
             return "I'm an AI agri chatbot! How can I help you today?"
-        elif text in ["who created you","who developed you","Who created you","Who developed you","WHO CREATED YOU","WHO DEVELOPED YOU"]: 
+        elif text.lower() in ["who created you","who developed you","who created you?","who developed you?"]: 
             return "I was developed by Mahalakshmi Dodla"
         else:
             question_embedding = model.encode([text])
