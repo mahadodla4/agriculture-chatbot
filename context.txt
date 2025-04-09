@@ -375,7 +375,7 @@ asking about control measure of tomato leaf curl: recommended to spray rogor @ 2
  control measure of fruit scaring beetle: suggested him to spray malathion @2ml/lit of water
  control of blight in banana: suggested him to spray radomil gold @ 2gm/l of water
  variety of tomato: suggested him sinjenta,mahako and east west company seeds
- control measure of wilting of tomato: suggested him spray streptomycine @1g/10 lit of water
+ control measure of wilting of tomato: suggested him spray streptomycine @1g/10 lit of water ni
  control measure of stem borer on paddy: suggested him to spray tricel @2ml/lit of water
 asking about control measure of bacterial wilt: recommended to spray coperoxychloride @ 2 g per lit of water 
 
@@ -679,3 +679,170 @@ What is hydroponic farming?Hydroponics is a method of growing plants without soi
 How does climate change affect agriculture?
 Climate change causes unpredictable weather, droughts, floods, and increased pest attacks, reducing crop yields and food security.
 What are government policies that support farmers?Many governments provide subsidies, loans, crop insurance, and training programs to support farmers and boost agricultural productivity.
+crop-wise list of commonly used pesticides (insecticides, fungicides, and bactericides) for managing pests and diseases effectively. These should be used as per local agricultural guidelines and safety standards:
+Pesticides for Different Crops :
+1. Rice :
+	•	Insecticides:
+	•	Chlorantraniliprole – for stem borer
+	•	Imidacloprid – for brown planthopper
+	•	Fungicides:
+	•	Tricyclazole – for blast
+	•	Mancozeb + Carbendazim – for sheath blight
+	•	Bactericides:
+	•	Streptomycin + Tetracycline – for bacterial leaf blight
+2. Wheat :
+	•	Insecticides:
+	•	Lambda-cyhalothrin – for aphids
+	•	Fungicides:
+	•	Propiconazole – for rusts
+	•	Mancozeb – for leaf blight
+3. Maize (Corn) :
+	•	Insecticides:
+	•	Spinosad – for fall armyworm
+	•	Thiamethoxam – for shoot fly
+	•	Fungicides:
+	•	Metalaxyl + Mancozeb – for downy mildew
+	•	Azoxystrobin – for leaf spot
+4. Cotton :
+	•	Insecticides:
+	•	Emamectin benzoate – for bollworm
+	•	Thiacloprid – for sucking pests
+	•	Fungicides:
+	•	Carbendazim + Mancozeb – for leaf spot and root rot
+5. Sugarcane :
+	•	Insecticides:
+	•	Chlorpyrifos – for early shoot borer
+	•	Fungicides:
+	•	Carbendazim – for red rot
+6. Potato :
+	•	Insecticides:
+	•	Cypermethrin – for cutworms
+	•	Fungicides:
+	•	Mancozeb – for early blight
+	•	Metalaxyl + Mancozeb – for late blight
+7. Tomato :
+	•	Insecticides:
+	•	Fipronil – for fruit borer
+	•	Imidacloprid – for whiteflies
+	•	Fungicides:
+	•	Copper oxychloride – for bacterial wilt
+	•	Mancozeb + Metalaxyl – for blight diseases
+8. Banana :
+	•	Insecticides:
+	•	Carbofuran – for root weevil
+	•	Fungicides:
+	•	Propiconazole – for leaf spot
+	•	Bactericides:
+	•	Copper oxychloride – for bacterial soft rot
+9. Grapes :
+	•	Insecticides:
+	•	Acetamiprid – for mealybugs
+	•	Fungicides:
+	•	Sulphur – for powdery mildew
+	•	Mancozeb – for downy mildew
+10. Groundnut (Peanut) :
+	•	Insecticides:
+	•	Monocrotophos – for leaf hoppers
+	•	Fungicides:
+	•	Chlorothalonil – for tikka leaf spot
+	•	Hexaconazole – for ruse
+
+major diseases that affect crops:
+Rice : •	Blast disease – Magnaporthe oryzae
+	•	Bacterial leaf blight – Xanthomonas oryzae
+	•	Sheath blight – Rhizoctonia solani
+	•	Tungro virus – Rice tungro bacilliform virus
+Wheat:•	Rust diseases – (Brown, Yellow, Black rust) – Puccinia spp.
+	•	Powdery mildew – Blumeria graminis
+	•	Loose smut – Ustilago tritici
+	•	Karnal bunt – Tilletia indica
+Maize (Corn):•	Downy mildew – Peronosclerospora spp.
+	•	Common smut – Ustilago maydis
+	•	Leaf blight – Helminthosporium maydis
+	•	Maize streak virus
+ Cotton : •	Bacterial blight – Xanthomonas citri
+	•	Wilt – Fusarium oxysporum
+	•	Anthracnose – Colletotrichum gossypii
+	•	Root rot – Rhizoctonia solani
+Sugarcane : •	Red rot – Colletotrichum falcatum
+	•	Smut – Sporisorium scitamineum
+	•	Grassy shoot disease – Mycoplasma-like organism
+	•	Ratoon stunting disease – Leifsonia xyli
+Potato : •	Late blight – Phytophthora infestans
+	•	Early blight – Alternaria solani
+	•	Bacterial wilt – Ralstonia solanacearum
+	•	Potato virus Y (PVY)
+Tomato : Early blight – Alternaria solani
+	•	Late blight – Phytophthora infestans
+	•	Tomato mosaic virus (ToMV)
+	•	Fusarium wilt – Fusarium oxysporum
+Banana : •	Panama wilt – Fusarium oxysporum f. sp. cubense
+	•	Sigatoka leaf spot – Mycosphaerella spp.
+	•	Banana bunchy top virus (BBTV)
+	•	Anthracnose – Colletotrichum musae
+ Grapes : •	Powdery mildew – Uncinula necator
+	•	Downy mildew – Plasmopara viticola
+	•	Black rot – Guignardia bidwellii
+	•	Botrytis bunch rot – Botrytis cinerea. 
+General Prevention Measures for Crop Diseases
+	1.	Use disease-resistant varieties of crops.
+	2.	Practice crop rotation to break disease cycles.
+	3.	Use certified, disease-free seeds and planting material.
+	4.	Maintain proper field hygiene – remove infected plant debris.
+	5.	Apply balanced fertilizers – avoid excessive nitrogen.
+	6.	Control weeds – they can host pathogens.
+	7.	Ensure proper spacing and drainage – reduces humidity and fungal spread.
+	8.	Use fungicides and bactericides judiciously.
+	9.	Monitor regularly for early detection.
+	10.	Practice integrated pest and disease management (IPDM).
+Crop-wise Disease Prevention :
+1. Rice :
+	•	Use resistant varieties (e.g., IR64 for blast).
+	•	Avoid over-irrigation and dense planting.
+	•	Apply Tricyclazole for blast control.
+	•	Use clean seeds and apply seed treatment.
+2. Wheat :
+	•	Rotate with non-host crops.
+	•	Use rust-resistant varieties (e.g., HD 2967).
+	•	Spray Propiconazole for rust diseases.
+	•	Burn or remove infected stubble.
+3. Maize :
+	•	Treat seeds with fungicides like Metalaxyl.
+	•	Use resistant hybrids.
+	•	Control weeds and improve field drainage.
+	•	Spray Mancozeb for leaf blights.
+4. Cotton :
+	•	Use Bt cotton and resistant varieties.
+	•	Treat seeds with Trichoderma or Carbendazim.
+	•	Remove crop residues.
+	•	Rotate with legumes or cereals.
+5. Sugarcane :
+	•	Use healthy, heat-treated setts.
+	•	Avoid ratooning if red rot is present.
+	•	Apply Carbendazim for red rot.
+	•	Control grassy shoot using insecticides to manage vectors.
+6. Potato :
+	•	Avoid waterlogged conditions.
+	•	Spray Copper-based fungicides for late blight.
+	•	Use certified seed potatoes.
+	•	Rotate with non-solanaceous crops.
+7. Tomato :
+	•	Stake plants to improve airflow.
+	•	Use resistant hybrids (e.g., Arka Rakshak).
+	•	Apply Mancozeb or Metalaxyl for blight.
+	•	Remove and destroy infected plants.
+8. Banana :
+	•	Use tissue-cultured, disease-free plants.
+	•	Improve drainage to prevent wilt.
+	•	Remove and destroy infected suckers.
+	•	Spray fungicides like Carbendazim
+9. Grapes :
+	•	Prune and train vines to improve ventilation.
+	•	Use Sulphur or systemic fungicides for mildew.
+	•	Remove infected bunches promptly.
+	•	Monitor weather to time sprays effectively.
+10. Groundnut :
+	•	Use resistant varieties like TAG 24.
+	•	Apply Chlorothalonil or Mancozeb for leaf spots.
+	•	Practice deep plowing to bury spores.
+	•	Rotate with cereals like maize or sorghum.
