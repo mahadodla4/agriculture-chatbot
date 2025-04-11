@@ -19,4 +19,4 @@ Backend: Python,flask
 
 **Preview of the bot:**
 
-![Screenshot 2025-03-07 000006](https://github.com/user-attachments/assets/fca9808b-bcfe-4aa9-a2cd-28354865e2ea)
+![image](https://github.com/user-attachments/assets/fb35e86e-77c1-4446-be33-d571edbfc17f)
